@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35514.174 d17.12
+VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "ClassesMetodos\Classes.csproj", "{26030BA9-8909-43DD-8CFB-686462F4EC79}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodos", "Metodos\Metodos.csproj", "{3CF2D31B-A3BC-4CDA-AF2D-E0A4A83D11DF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosParametros", "MetodosParametros\MetodosParametros.csproj", "{6F693A82-38D4-47FE-913F-536B8BF372F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construtores", "Construtores\Construtores.csproj", "{C1A9E687-ADE3-41DB-A2D8-D5631B4D6BB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{6F693A82-38D4-47FE-913F-536B8BF372F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F693A82-38D4-47FE-913F-536B8BF372F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F693A82-38D4-47FE-913F-536B8BF372F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1A9E687-ADE3-41DB-A2D8-D5631B4D6BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A9E687-ADE3-41DB-A2D8-D5631B4D6BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A9E687-ADE3-41DB-A2D8-D5631B4D6BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A9E687-ADE3-41DB-A2D8-D5631B4D6BB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
