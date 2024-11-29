@@ -1,6 +1,6 @@
 ﻿Console.WriteLine("Basico de Metodos");
 
-MinhaClasse minhaClasse = new MinhaClasse();
+var minhaClasse = new MinhaClasse();
 
 minhaClasse.Saudacao("Paulo", DateTime.Now);
 
