@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct", "Struct\Struct.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumeration", "Enumeration\Enumeration.csproj", "{CC2D386C-FA7D-4493-AF25-2157A9149BF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TratamentoError", "TratamentoError\TratamentoError.csproj", "{28836B5C-2F2D-4B2C-8959-EDA89826FFF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{CC2D386C-FA7D-4493-AF25-2157A9149BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC2D386C-FA7D-4493-AF25-2157A9149BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC2D386C-FA7D-4493-AF25-2157A9149BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28836B5C-2F2D-4B2C-8959-EDA89826FFF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28836B5C-2F2D-4B2C-8959-EDA89826FFF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28836B5C-2F2D-4B2C-8959-EDA89826FFF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28836B5C-2F2D-4B2C-8959-EDA89826FFF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
