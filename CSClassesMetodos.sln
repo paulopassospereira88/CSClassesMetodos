@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstrutorEstatico", "Const
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Propriedades", "Propriedades\Propriedades.csproj", "{19D9447F-0359-4C6C-B28D-BBF3111A6662}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct", "Struct\Struct.csproj", "{B68776B4-8B83-40E5-9BEB-8925BD28F90E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{19D9447F-0359-4C6C-B28D-BBF3111A6662}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19D9447F-0359-4C6C-B28D-BBF3111A6662}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19D9447F-0359-4C6C-B28D-BBF3111A6662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B68776B4-8B83-40E5-9BEB-8925BD28F90E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B68776B4-8B83-40E5-9BEB-8925BD28F90E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B68776B4-8B83-40E5-9BEB-8925BD28F90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B68776B4-8B83-40E5-9BEB-8925BD28F90E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
