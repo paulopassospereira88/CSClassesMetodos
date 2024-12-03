@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Propriedades", "Propriedade
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct", "Struct\Struct.csproj", "{B68776B4-8B83-40E5-9BEB-8925BD28F90E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumeration", "Enumeration\Enumeration.csproj", "{CC2D386C-FA7D-4493-AF25-2157A9149BF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{B68776B4-8B83-40E5-9BEB-8925BD28F90E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B68776B4-8B83-40E5-9BEB-8925BD28F90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B68776B4-8B83-40E5-9BEB-8925BD28F90E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC2D386C-FA7D-4493-AF25-2157A9149BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2D386C-FA7D-4493-AF25-2157A9149BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2D386C-FA7D-4493-AF25-2157A9149BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2D386C-FA7D-4493-AF25-2157A9149BF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
