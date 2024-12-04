@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumeration", "Enumeration\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TratamentoError", "TratamentoError\TratamentoError.csproj", "{28836B5C-2F2D-4B2C-8959-EDA89826FFF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposAnonimos", "TiposAnonimos\TiposAnonimos.csproj", "{77EF8A32-EECA-44A3-919E-813B6EC0DCB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{28836B5C-2F2D-4B2C-8959-EDA89826FFF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28836B5C-2F2D-4B2C-8959-EDA89826FFF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28836B5C-2F2D-4B2C-8959-EDA89826FFF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77EF8A32-EECA-44A3-919E-813B6EC0DCB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77EF8A32-EECA-44A3-919E-813B6EC0DCB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77EF8A32-EECA-44A3-919E-813B6EC0DCB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77EF8A32-EECA-44A3-919E-813B6EC0DCB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
